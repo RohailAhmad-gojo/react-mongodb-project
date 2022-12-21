@@ -1,0 +1,56 @@
+.link{
+    color: #fff;
+    text-decoration: none;
+}
+div{
+    margin-bottom: 7px;
+    font-family: sans-serif;
+}
+.notesTextContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3% 0;
+    border: 1px solid #242629;
+    padding: 5px 30px;
+    border-radius: 5px;
+}
+.notesText{
+    margin: 2% 0;
+    text-transform: capitalize;
+    color: #242629;
+    width: 85%;
+}
+.notesText h1{
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+.notesBtn{
+    width: 15%;
+    text-align: center;
+}
+.notesBtnPost{
+    width: 140px;
+    height: 45px;
+    background-color: rgb(16, 121, 163);
+    border-radius: 5%;
+    color: #fff;
+    border: 1px solid #fff;
+    margin: 2%;
+    border-radius: 35px;
+}
+.notesBtnEdit{
+    width: 140px;
+    height: 45px;
+    background-color: crimson;
+    border-radius: 5%;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 35px;
+}
+.notesBtn button:hover{
+    color: #000;
+    border: 1px solid #000;
+    transition: 300ms;
+}
