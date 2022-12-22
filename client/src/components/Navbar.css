@@ -54,3 +54,6 @@ div{
     border: 1px solid #000;
     transition: 300ms;
 }
+.navbarLinks{
+    margin: 0 3%;
+}
